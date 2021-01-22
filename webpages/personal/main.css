@@ -1,0 +1,26 @@
+div {
+    width:200px;
+    height:200px;
+    border:1px solid red;
+    border-radius: 100%;
+    background-image: url("/Users/tyben/Documents/Photos/Tbensink1.jpg");
+    background-size: cover;
+    background-r: no-repeat;
+}
+
+img {
+  border: 30px groove orangered
+  border-radius: 40px;
+}
+
+.twory {
+  border: 30px dashed orangered
+}
+
+.threery {
+  border: 30px dotted orangered
+
+}
+.fourry {
+  border: 30px double orangered
+}
