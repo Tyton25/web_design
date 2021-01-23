@@ -1,7 +1,7 @@
 div {
     width:200px;
     height:200px;
-    border:1px solid red;
+    border:5px solid #fcc200;
     border-radius: 100%;
     background-image: url("/Users/tyben/Documents/Photos/Tbensink1.jpg");
     background-size: cover;
@@ -9,18 +9,21 @@ div {
 }
 
 img {
-  border: 30px groove orangered
-  border-radius: 40px;
+  border: 30px groove #2f4f4f;
+  /* border-radius: 100%; */
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 20px;
 }
 
 .twory {
-  border: 30px dashed orangered
+  border: 30px dashed #696969;
 }
 
 .threery {
-  border: 30px dotted orangered
+  border: 30px dotted #fcc200;
 
 }
 .fourry {
-  border: 30px double orangered
+  border: 30px double #2f4f4f;
 }
