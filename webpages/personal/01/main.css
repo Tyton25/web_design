@@ -1,11 +1,11 @@
 div {
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
     border:5px solid #fcc200;
     border-radius: 100%;
     background-image: url("/Users/tyben/Documents/Photos/Tbensink1.jpg");
     background-size: cover;
-    background-r: no-repeat;
+    background-repeat: no-repeat;
 }
 
 img {

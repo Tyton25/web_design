@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(71, 157, 255);
+    border: 5px dashed #8200fc;
+    margin: 20px auto;
+    border-radius:100%;
+    background-image: url("/Users/tyben/Documents/Photos/Tbensink1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nogrow {
+    box-sizing: border-box;
+}
