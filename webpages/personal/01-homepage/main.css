@@ -1,0 +1,50 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(71, 157, 255);
+    border: 5px dashed #8200fc;
+    margin: 20px auto;
+    border-radius:100%;
+    background-image: url("/Users/tyben/Documents/Photos/Tbensink1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nogrow {
+    box-sizing: border-box;
+}
+
+input {
+    font-size: 4rem;
+    margin-top: 4px;
+    border: 1px solid darkgray;
+}
+
+[type=Submit]:link {
+    color: red;
+}
+
+[type=Submit]:visited {
+    background-color: blue;
+    color: whitesmoke;
+}
+
+[type=Submit]:hover {
+    background-color: #00FF00;
+}
+
+[type=Submit]:active {
+    color: whitesmoke;
+}
+
+a {
+    font-size: 50px;
+    font: italic;
+    background-color: rgb(58, 58, 221);
+    color: rgb(26, 218, 51);
+}
+
+a:focus {
+    color: red;
+}
+
